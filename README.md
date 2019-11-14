@@ -87,8 +87,8 @@ for marking attendance
 
 # Contributors
 
-![Ajinkya Pathak](https://github.com/Ajinkz)
+![Ajinkya Pathak](https://ajinkz.github.io/CaptureCropPhoto/)
 
 ![Diksha Jadhav](https://github.com/dikshajadhav)
 
-![Akshay Dhomse](https://github.com/adhomse)
+![Akshay Dhomse](https://adhomse.github.io/CaptureCropPhoto/)
