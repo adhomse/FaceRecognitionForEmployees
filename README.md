@@ -85,6 +85,7 @@ for marking attendance
 ![alt text](https://eus-www.sway-cdn.com/s/eDQI1VFHNFZ34TEU/images/AMhbJXF7hj8ro5?quality=480&allowAnimation=true)
 
 
-# Acknowledgements
+# Contributors
 
 ![Ajinkya Pathak](https://github.com/Ajinkz)
+![Diksha Jadhav](https://github.com/dikshajadhav)
