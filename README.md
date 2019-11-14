@@ -1,4 +1,4 @@
-# FaceRecognitionForEmployees
+# FaceRecognitionForEmployees  [![]https://img.shields.io/badge/python-Deep%20Learning-orange] [![]https://img.shields.io/badge/Python-OpenCV-orange]
 Detect and Recognize the faces for employees
 
 
