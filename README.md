@@ -88,4 +88,7 @@ for marking attendance
 # Contributors
 
 ![Ajinkya Pathak](https://github.com/Ajinkz)
+
 ![Diksha Jadhav](https://github.com/dikshajadhav)
+
+![Akshay Dhomse](https://github.com/adhomse)
